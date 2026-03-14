@@ -1,0 +1,6 @@
+# 
+Attendance:
+
+## Notes
+
+## Tasks
