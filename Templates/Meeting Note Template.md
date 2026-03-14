@@ -1,6 +1,7 @@
 # 
 Attendance:
 
+---
 ## Notes
 
 ## Tasks
