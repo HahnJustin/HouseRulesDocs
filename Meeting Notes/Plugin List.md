@@ -1,0 +1,3 @@
+- Kanban
+- Paste URL in Selection
+- Home Page
