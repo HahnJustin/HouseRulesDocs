@@ -1,5 +1,5 @@
 # 
-Attendance:
+*Attendance:*
 
 ---
 ## Notes
