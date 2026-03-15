@@ -1,4 +1,8 @@
-
+---
+type: "blog"
+tags: ["blog"]
+date: 2026-03-15
+---
 NOTE: Introduce we're using Unity and who Brackeys is maybe?
 
 This is a blog about how we made a game in a week that won a jam, but its more than that its a story of redemption and recognition. Its about how a team of four people, none professional game developers, went from barely finishing a game that landed dead average in our last jam, GMTK 25 to winning 1st place in the Brackeys' game jam in enjoyment, gameplay and overall categories just six months later. So I want to tell you how we failed, learned from that failure and quickly turned around to produce our best title ever.

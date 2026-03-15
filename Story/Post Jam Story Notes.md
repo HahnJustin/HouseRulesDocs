@@ -1,8 +1,8 @@
-Russians on the moon
+## Russians on the moon
 * Laika - Russian space dog - Also a nod to a big supporter of ours (we have those now :O)
 * Beat cosmonaut take rover to alien base
 
-Aliens on moon - all 'human' enthusiasts/weaboos
+## Aliens on moon - all 'human' enthusiasts/weaboos
 * Guy in the UFO that you hijack is into american gang culture, effectively an 'alien blood'
 * General looks like kim jon un but alien (why he surveils nk)
 	* Trying to figure out if its funnier that he just looks like kju or that he is an ethusiast too
@@ -14,11 +14,11 @@ Aliens on moon - all 'human' enthusiasts/weaboos
 	* He says imagine earth is like penal colony, something like your australia.
 	* Maybe teach him pawn chess, which is a gimmick game where you get to set the pieces?
 
-Alien club
+## Alien club
 *  Boss either club leader or alien blood?
   *  Opportunity for hype music, re-use of gun mechanic?
 
-Rapture
+## Rapture
 * Alien leader spots with binoculars that American congress is voting for the apocalypse on house floor and plan to pass it via reconciliation
 	* Chessman goes, how are they gonna do that? Nuclear war?
 	* Alien goes no no no no, they just need to sacrifice a red cow in israel, much easier, we often do this in planets we want to destroy, much more cost effective found by alien internal budgetary committee

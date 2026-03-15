@@ -1,6 +1,6 @@
 Earth -> Moon -> Rapture
 
-Earth
+## Earth
 1. NYC 
 2. France
 3. Amazon
@@ -12,11 +12,11 @@ Earth
 9. NK
 10. NK Prison [Prison Break, Hijack UFO]
 
-Moon
+## Moon
 1. Russian Cosmonaut [Crash land, Steal Rover]
 2. Alien Guards?
 
-Random Ideas not ordered
+## Random Ideas not ordered
 * Cow Stage
 * Alien General
 * Alien Club
@@ -26,7 +26,7 @@ Random Ideas not ordered
 * Alien Influencer?
 * Idk a lot of pop culture references here
 
-Rapture
+## Rapture
 * Ascended Characters from ACT 1
 * Some reference to AI taking over?
 * Actual Angels

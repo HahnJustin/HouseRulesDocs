@@ -1,3 +1,10 @@
+---
+type: "design-doc"
+tags: ["design-doc"]
+date: <% tp.date.now() %>
+aliases: 
+  - 
+---
 # *Title*
 *Game Jam*
 *Date*

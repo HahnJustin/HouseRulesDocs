@@ -1,3 +1,10 @@
+---
+type: "design-doc"
+tags: ["design-doc"]
+date: 2026-03-15
+aliases: 
+  - 
+---
 # 2026 Backeys Game Jam
 ## Executive Summary
 ### Game Overview 
