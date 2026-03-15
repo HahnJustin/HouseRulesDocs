@@ -1,7 +1,8 @@
 ---
 
 kanban-plugin: board
-
+tags: 
+  - kanban
 ---
 
 ## Not Started

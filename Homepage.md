@@ -1,11 +1,6 @@
+Welcome to the home page of House Rules Docs!
 
 
-
-## Important Links
-[*House Rules Game Page*](https://dalichrome.itch.io/house-rules): House Rules game page
-[*House Rules Submission Page*](https://itch.io/jam/brackeys-15/rate/4305680): House Rules submission page
-[*Brackey's Game Jam 2026.1 Results*](https://itch.io/jam/brackeys-15/results): Game jam results page
-[*House Rules Drive*](https://drive.google.com/drive/folders/1jYCWOu-E_pVqMU4yZ45uYokZqP2kFmrd?usp=drive_link): Google drive for House Rules documentation
 
 ## Contribution Heat Map
 ```contributionGraph
