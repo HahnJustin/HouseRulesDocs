@@ -1,8 +1,9 @@
 ---
 
 kanban-plugin: board
-tags: 
-  - "kanban"
+tags:
+  - kanban
+
 ---
 
 ## Not Started
@@ -14,6 +15,7 @@ tags:
 - [ ] [[Ian]]: Make a checkers piece
 	
 	**Started:**  [[Fri 2026-03-13]]
+- [ ] [[Justin]]: Add Premove
 
 
 ## Done
