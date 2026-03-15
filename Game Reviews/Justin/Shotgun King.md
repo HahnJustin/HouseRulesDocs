@@ -16,6 +16,7 @@ Shotgun King is a roguelike chess game where you play as the black king with a s
 The developers are a team called *Punkcake Delicieux*. They're a French team of two developers and a musician. They focus on making polished titles quick, having an approach to game development that is very similar to that of a content creator. They also have a sizeable following [on patreon](https://www.patreon.com/punkcake).
 
 ![[Pasted image 20260315152730.png]]
+*Patreon Analytics of Punkcake Delicieux*
 
 They also have made several other games on itch prior to release of Shotgun King. They seem to have gotten significant prior attention, as viewable by the patreon chart above as well. Having around 50+ patrons before the release of Shotgun King onto Steam. 
 
@@ -25,12 +26,13 @@ The game was made in April 2022 actually for a Ludum Dare Jam #50. The game won 
 ### Profit
 The game seems to have sold around 500,000 units according to [this steam post](https://store.steampowered.com/news/app/1972440/view/502827075746398770?l=english). The steam numbers indicate around 275,000 copies sold, which likely means almost half of its sales are from other platforms, such as switch or PlayStation. Regardless this game seems to have made likely around 4-5 million dollars in total. In addition at least the steam release is self published, meaning  the around $2 million in steam profit goes straight to the developers.
 
-![[Pasted image 20260315152217.png]]
+![[Pasted image 20260315152217.png|697]]
+*Price History of Shotgun King*
 
 It launched at around six dollars and players peaked at launch at around 770. Later upping the price and in addition getting player spikes at later releases.
 
 ![[Pasted image 20260315152410.png]]
-
+*Active Player Count of Shotgun King*
 
 # The Review 
 
