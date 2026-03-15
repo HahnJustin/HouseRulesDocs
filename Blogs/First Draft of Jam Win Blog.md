@@ -2,7 +2,7 @@
 type: "blog"
 tags: ["blog"]
 date: 2026-03-15
-title:
+title: First Draft of Jam Win Blog
 author: Justin
 draft: true
 ---

@@ -1,3 +1,8 @@
+---
+aliases:
+  - "Meeting Notes Index"
+---
+
 This is the index page of meeting notes.
 
 ## Table of Contents

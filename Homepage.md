@@ -1,6 +1,27 @@
-Welcome to the home page of House Rules Docs!
+---
+banner: "![[angel-bg.png]]"
+banner_y: 0.37133
+banner_lock: true
+cssclasses:
+  - wide-page
+---
+# Homepage
+Welcome to the home page of **House Rules Docs**! This is where you can see files that where recent created and modified with a GitHub style heatmap to see how active this obsidian vault is. Below is a list of contents to navigate through this vault.
 
+## Contents
+- [[Plugin List]] - List of plugins to set up House Rules Docs obsidian vault
+- [[Tasks]] - List of tasks through out the obsidian vault
+- [[Business Kanban]] - Kanban of business tasks
+- [[Coding Kanban]] - Kanban of coding tasks/tickets
+- [[Index|Meeting Notes Index]] - Index of meeting notes
+- [[Blogs/Index|Blogs Index]] - Index of blogs
 
+## Important Links
+- [*House Rules Game Page*](https://dalichrome.itch.io/house-rules): House Rules game page
+- [*House Rules Submission Page*](https://itch.io/jam/brackeys-15/rate/4305680): House Rules submission page
+- [*Brackey's Game Jam 2026.1 Results*](https://itch.io/jam/brackeys-15/results): Game jam results page
+- [*House Rules Drive*](https://drive.google.com/drive/folders/1jYCWOu-E_pVqMU4yZ45uYokZqP2kFmrd?usp=drive_link): Google drive for House Rules documentation
+- [*House Rules GitHub Repository*:](https://github.com/HahnJustin/HouseRules) GitHub repo for House Rules
 
 ## Contribution Heat Map
 ```contributionGraph
@@ -42,7 +63,8 @@ cellStyleRules:
     color: "#8afebfff"
     text: ""
 ```
-## Files Last Modified
+
+### Files Last Modified
 ```dataview
 TABLE file.mtime AS "Last Modified"
 FROM ""
@@ -50,7 +72,7 @@ SORT file.mtime DESC
 LIMIT 5
 ```
 
-## Files Recently Added
+### Files Recently Added
 ```dataview
 TABLE file.ctime AS "Date Created", file.mtime AS "Date Modified"
 FROM ""

@@ -2,7 +2,7 @@
 
 kanban-plugin: board
 tags:
-  - kanban
+  - "kanban"
 
 ---
 
