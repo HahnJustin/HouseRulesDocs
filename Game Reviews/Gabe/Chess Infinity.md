@@ -1,6 +1,7 @@
 ![[Pasted image 20260315164859.png]]
-[Game Link](https://store.steampowered.com/app/2828420/Chess_Infinity/ )
-[Steam DB](https://steamdb.info/app/2828420/)
+* [Game Link](https://store.steampowered.com/app/2828420/Chess_Infinity/ )
+* [Steam DB](https://steamdb.info/app/2828420/)
+* [Price Analytics](https://gamalytic.com/game/2828420)
 # The Review 
 
 ## The Demo
