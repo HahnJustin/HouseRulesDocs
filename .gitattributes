@@ -1,8 +1,5 @@
-# Ensure consistent line endings
 * text=auto eol=lf
 *.md text eol=lf
-
-# Treat binary files properly
 *.png binary
 *.jpg binary
 *.jpeg binary

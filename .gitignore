@@ -12,4 +12,7 @@ Icon?
 
 # Obsidian - exclude all configuration
 .obsidian/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
 .trash/
+.DS_Store
