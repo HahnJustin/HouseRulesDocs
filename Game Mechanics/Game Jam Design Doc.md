@@ -30,7 +30,7 @@ Effectively make a simple game more fun by adding silly rules and environments. 
 - Win
 
 ## Story and Narrative
-**Story Overview: **
+**Story Overview:**
 - Prelude:
 **Setting and World Building:**
 -   
@@ -111,7 +111,7 @@ UFO? Beep beep boop bop, ??? ??? 
 - **Budget:** 
 - **Risk Management:**
 
-  
+
 
 ## Concept Art - Inspiration
 
