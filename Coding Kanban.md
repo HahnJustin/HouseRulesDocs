@@ -15,11 +15,11 @@ tags:
 - [ ] [[Ian]]: Make a checkers piece
 	
 	**Started:**  [[2026-03-13]]
-- [ ] [[Justin]]: Add Premove
 
 
 ## Done
 
+- [ ] [[Justin]]: Add Premove
 
 
 
