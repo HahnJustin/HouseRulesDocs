@@ -22,6 +22,7 @@ Welcome to the home page of **House Rules Docs**! This is where you can see file
 - [*Brackey's Game Jam 2026.1 Results*](https://itch.io/jam/brackeys-15/results): Game jam results page
 - [*House Rules Drive*](https://drive.google.com/drive/folders/1jYCWOu-E_pVqMU4yZ45uYokZqP2kFmrd?usp=drive_link): Google drive for House Rules documentation
 - [*House Rules GitHub Repository*:](https://github.com/HahnJustin/HouseRules) GitHub repo for House Rules
+- [***HouseRulesDocs:***](https://github.com/HahnJustin/HouseRulesDocs) GitHub repo for House Rules documentation
 
 ## Contribution Heat Map
 ```contributionGraph
