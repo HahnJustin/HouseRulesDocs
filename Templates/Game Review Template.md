@@ -1,4 +1,5 @@
 ---
+date: <% tp.date.now() %>
 type: game-review
 tags:
   - game-review

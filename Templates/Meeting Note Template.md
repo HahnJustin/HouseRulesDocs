@@ -1,7 +1,8 @@
 ---
 type: "meeting-notes"
 tags: ["meeting-notes"]
-date: <% tp.date.now() %>
+date: <% tp.file.title %>
+created: <% tp.date.now() %>
 aliases: 
   - <%tp.date.now("dddd Do MMMM YYYY")%>
 ---
@@ -11,6 +12,8 @@ aliases:
 *[[Meeting Notes/Index|Meeting Notes Index]]*
 
 ---
+## Updates
+
 ## Notes
 
 ## Tasks
