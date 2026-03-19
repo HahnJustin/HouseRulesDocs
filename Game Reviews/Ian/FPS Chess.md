@@ -1,7 +1,7 @@
 ---
-date: <% tp.date.now() %>
+date: 2026-03-18
 type: game-review
-title: <% tp.file.title %>
+title: FPS Chess
 tags:
   - game-review
 ---

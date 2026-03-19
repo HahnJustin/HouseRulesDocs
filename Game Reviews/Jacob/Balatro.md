@@ -1,3 +1,10 @@
+---
+date: 2026-03-18
+type: game-review
+title: Balatro
+tags:
+  - game-review
+---
 ## Links
 * [Steam Page](https://store.steampowered.com/app/2379780/Balatro/)
 * [SteamDB Page](https://steamdb.info/app/2379780/)

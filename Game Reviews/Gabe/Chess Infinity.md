@@ -1,3 +1,10 @@
+---
+date: 2026-03-18
+type: game-review
+title: Chess Infinity
+tags:
+  - game-review
+---
 ![[Pasted image 20260315164859.png]]
 * [Game Link](https://store.steampowered.com/app/2828420/Chess_Infinity/ )
 * [Steam DB](https://steamdb.info/app/2828420/)

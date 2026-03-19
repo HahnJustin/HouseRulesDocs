@@ -1,3 +1,10 @@
+---
+date: 2026-03-18
+type: game-review
+title: King of the Bridge
+tags:
+  - game-review
+---
 ## Links
 * [Steam Page](https://store.steampowered.com/app/2523120/King_of_the_Bridge/)
 * [SteamDB Page](https://steamdb.info/app/2523120/)
