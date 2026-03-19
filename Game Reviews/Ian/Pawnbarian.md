@@ -9,7 +9,6 @@ tags:
 * [Steam Page](https://store.steampowered.com/app/1142080/Pawnbarian/)
 * [SteamDB Page](https://steamdb.info/app/1142080/info/)
 * [Gamalytics Page](https://gamalytic.com/game/1142080)
-* *<Any other relevant Links?>*
 
 ### Description
 Pawnbarian is a quick-playing, turn-based puzzle roguelike. Play cards to move your hero like a chess piece, and conquer challenging dungeons full of cunning monsters!
