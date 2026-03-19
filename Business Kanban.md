@@ -14,12 +14,6 @@ tags:
 	[[Fri 2026-03-13#Tasks]]
 	
 	**Started:** [[Fri 2026-03-13]]
-- [ ] [[Ian]]: Early Market Research
-	
-	Play 4 games
-	[[Fri 2026-03-13#Tasks]]
-	
-	**Started:** [[Fri 2026-03-13]]
 - [ ] [[Gabe]]: Early Market Research
 	
 	Play 4 games
@@ -30,6 +24,12 @@ tags:
 
 ## In-progress
 
+- [ ] [[Ian]]: Early Market Research
+	
+	Play 4 games
+	[[Fri 2026-03-13#Tasks]]
+	
+	**Started:** [[Fri 2026-03-13]]
 - [ ] [[Justin]]: Early Market Research
 	
 	Play 4 games
