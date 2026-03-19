@@ -8,22 +8,22 @@ tags:
 
 ## Not Started
 
-- [ ] [[Jacob]]: Early Market Research
-	
-	Play 4 games
-	[[Fri 2026-03-13#Tasks]]
-	
-	**Started:** [[Fri 2026-03-13]]
+
+
+## In-progress
+
 - [ ] [[Gabe]]: Early Market Research
 	
 	Play 4 games
 	[[Fri 2026-03-13#Tasks]]
 	
 	**Started:** [[Fri 2026-03-13]]
-
-
-## In-progress
-
+- [ ] [[Jacob]]: Early Market Research
+	
+	Play 4 games
+	[[Fri 2026-03-13#Tasks]]
+	
+	**Started:** [[Fri 2026-03-13]]
 - [ ] [[Ian]]: Early Market Research
 	
 	Play 4 games
