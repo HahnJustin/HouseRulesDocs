@@ -1,8 +1,3 @@
----
-aliases:
-  - "Blogs Index"
----
-
 This is the index page of blogs.
 
 ## Table of Contents

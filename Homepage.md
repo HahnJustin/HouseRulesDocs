@@ -13,8 +13,8 @@ Welcome to the home page of **House Rules Docs**! This is where you can see file
 - [[Tasks]] - List of tasks through out the obsidian vault
 - [[Business Kanban]] - Kanban of business tasks
 - [[Coding Kanban]] - Kanban of coding tasks/tickets
-- [[Blogs/Index|Meeting Notes Index]] - Index of meeting notes
-- [[Blogs/Index|Blogs Index]] - Index of blogs
+- [[Blogs Index|Meeting Notes Index]] - Index of meeting notes
+- [[Blogs Index|Blogs Index]] - Index of blogs
 
 ## Important Links
 - [*House Rules Game Page*](https://dalichrome.itch.io/house-rules): House Rules game page
