@@ -9,7 +9,7 @@ aliases:
 # Meeting Name
 *Date:* <% tp.date.now() %> - <% tp.date.now("hh:mm A") %>
 *Attendance:* [[Justin]] | [[Gabe]] | [[Jacob]] | [[Ian]]
-*[[Meeting Notes/Index|Meeting Notes Index]]*
+*[[Meeting Notes Index|Meeting Notes Index]]*
 
 ---
 ## Updates

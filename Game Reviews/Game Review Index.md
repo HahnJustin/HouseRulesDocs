@@ -1,16 +1,9 @@
----
-aliases:
-  - "Meeting Notes Index"
----
-
-This is the index page of meeting notes.
-
 ## Table of Contents
 ```dataviewjs
 ```
 ```dataviewjs
 const pages = dv.pages()
-    .where(p => p.type === "meeting-notes" && !p.file.path.includes("Templates"))
+    .where(p => p.type === "game-review" && !p.file.path.includes("Templates"))
     // Sorts by file name (YYYY-MM-DD) from newest to oldest
     .sort(p => p.file.name, 'desc');
 
@@ -22,6 +15,5 @@ const data = pages.map(p => {
     return [p.file.link, meetingName];
 });
 
-dv.table(["Date (File Name)", "Meeting Name"], data);
+dv.table(["Game Review", "Review"], data);
 ```
-
