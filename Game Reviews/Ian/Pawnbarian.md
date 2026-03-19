@@ -6,16 +6,24 @@ tags:
   - game-review
 ---
 ## Links
-* [Steam Page](https://store.steampowered.com/app/<UPDATE_LINK_HERE>/)
-* [SteamDB Page](https://steamdb.info/app/<UPDATED_ID_FROM_STEAM/)
-* [Gamalytics Page](https://gamalytic.com/game/<UPDATE_FROM_STEAM>)
+* [Steam Page](https://store.steampowered.com/app/1142080/Pawnbarian/)
+* [SteamDB Page](https://steamdb.info/app/1142080/info/)
+* [Gamalytics Page](https://gamalytic.com/game/1142080)
 * *<Any other relevant Links?>*
 
 ### Description
-*Steam Description*
+Pawnbarian is a quick-playing, turn-based puzzle roguelike. Play cards to move your hero like a chess piece, and conquer challenging dungeons full of cunning monsters!
 
 ### Developer Background
-*Google, check Steam profile, see if anything else*
+[j4nw](https://j4nw.com/)
+[itch.io](https://j4nw.itch.io/)
+[linkedin](https://www.linkedin.com/in/jan-wojtecki/)
+
+- Seems to do a lot of gamejams according to his itch.io page. 
+- [[Pawnbarian]] seems to be his only steam game with a steam page
+- Indie Game Dev in Poland
+- Was a software engineer for web and API development
+- Worked with Vile Monarch and then became a indie dev
 
 ### Background
 *Background*
