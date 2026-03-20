@@ -2,6 +2,8 @@
 date: 2026-03-18
 type: game-review
 title: Shotgun King
+complete: true
+review: meh
 tags:
   - game-review
 ---

@@ -2,6 +2,8 @@
 date: <% tp.date.now() %>
 type: game-review
 title: <% tp.file.title %>
+complete: false
+review:
 tags:
   - game-review
 ---

@@ -2,6 +2,8 @@
 date: 2026-03-18
 type: game-review
 title: Pawnbarian
+complete: true
+review: liked
 tags:
   - game-review
 ---

@@ -2,6 +2,8 @@
 date: 2026-03-18
 type: game-review
 title: FPS Chess
+complete: false
+review:
 tags:
   - game-review
 ---
