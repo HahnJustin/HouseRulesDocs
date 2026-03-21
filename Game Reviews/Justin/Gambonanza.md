@@ -2,6 +2,8 @@
 date: 2026-03-18
 type: game-review
 title: Gambonanza
+complete: true
+review: not liked
 tags:
   - game-review
 ---

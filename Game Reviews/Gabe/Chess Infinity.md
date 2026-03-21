@@ -2,6 +2,8 @@
 date: 2026-03-18
 type: game-review
 title: Chess Infinity
+complete: true
+review: not liked
 tags:
   - game-review
 ---

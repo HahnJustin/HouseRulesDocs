@@ -1,19 +1,10 @@
 ## Table of Contents
 ```dataviewjs
 ```
-```dataviewjs
-const pages = dv.pages()
-    .where(p => p.type === "game-review" && !p.file.path.includes("Templates"))
-    // Sorts by file name (YYYY-MM-DD) from newest to oldest
-    .sort(p => p.file.name, 'desc');
-
-const data = pages.map(p => {
-    const cache = app.metadataCache.getFileCache(app.vault.getAbstractFileByPath(p.file.path));
-    const firstH1 = cache?.headings?.find(h => h.level === 1);
-    const meetingName = firstH1 ? firstH1.heading : "⚠️ No H1 found";
-    
-    return [p.file.link, meetingName];
-});
-
-dv.table(["Game Review", "Review"], data);
+```dataview
+TABLE date, complete, review
+FROM "game-review" OR #game-review
+WHERE type = "game-review" 
+  AND file.name != "Game Review Template"
+SORT date DESC
 ```

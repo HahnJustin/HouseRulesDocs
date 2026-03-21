@@ -8,6 +8,12 @@ tags:
 
 ## Not Started
 
+- [ ] bug fixing the mobile version
+- [ ] creation and balancing of hardmode (just alt stages)
+- [ ] rewrite of the north korea dialogue
+- [ ] rework NK
+- [ ] rework Austraila
+- [ ] recreate premove bugs
 
 
 ## In-progress
