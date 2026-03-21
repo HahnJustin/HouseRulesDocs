@@ -1,7 +1,7 @@
 ---
-date: <% tp.date.now() %>
+date: 2026-03-20
 type: game-review
-title: <% tp.file.title %>
+title: Game Review Template
 complete: false
 review:
 tags:
