@@ -1,5 +1,5 @@
 # _Hero Image and also short description_
-Think you know chess? Forget everything. Rule House is a pawn chess adventure where every stage rewrites the game. Play as Ryan Chessman, travel the globe, and master an ever-changing board where new pieces, twisted variants, and cunning opponents keep you guessing from your first move to your last.
+Think you know chess? Forget some of that. Rule House is a pawn chess adventure where every stage rewrites the game. Play as Ryan Chessman, travel the globe, and master an ever-changing board where new pieces, twisted variants, and cunning opponents keep you guessing from your first move to your last.
 
 ## **A World Without Kings**
 Global chaos has claimed many things, including the world's supply of kings and queens. But the humble pawn? Plentiful. From this crisis, pawn chess is born. A scrappy new game with one objective: get your pawn across the board. The goal doesn't change, but the pieces, the boards, and the house rules do. You are Ryan Chessman, and you're going to become the first-ever world champion.
@@ -25,7 +25,3 @@ From Big J in New York to a literal fish in the ocean, Rule House's cast of char
 
 ## **Rewrite the Rules**
 Rule House is a game about discovering chess all over again: one pawn, one stage, one ridiculous opponent at a time. Whether you're a grandmaster or you've never touched a board, there's a seat at the table.
-
-
-_**Make sure we include brackey's win**_
-- It seems like there is a sidebar we can include this in on the steam page.
