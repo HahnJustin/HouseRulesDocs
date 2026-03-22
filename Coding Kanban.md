@@ -10,7 +10,6 @@ tags:
 
 - [ ] bug fixing the mobile version
 - [ ] creation and balancing of hardmode (just alt stages)
-- [ ] [[Ian]]: rewrite of the north korea dialogue
 - [ ] rework NK
 - [ ] rework Austraila
 - [ ] recreate premove bugs
@@ -21,6 +20,7 @@ tags:
 - [ ] [[Ian]]: Make a checkers piece
 	
 	**Started:**  [[2026-03-13]]
+- [ ] [[Ian]]: rewrite of the north korea dialogue
 
 
 ## Done
