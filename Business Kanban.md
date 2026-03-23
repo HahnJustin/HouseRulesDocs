@@ -36,12 +36,12 @@ tags:
 	[[Fri 2026-03-13#Tasks]]
 	
 	**Started:** [[Fri 2026-03-13]]
-- [ ] [[Justin]]: Creating Steam Page
 - [ ] [[Justin]]: Writing Blog
 
 
 ## Done
 
+- [ ] [[Justin]]: Creating Steam Page
 
 
 
