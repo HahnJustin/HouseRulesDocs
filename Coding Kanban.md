@@ -20,11 +20,11 @@ tags:
 - [ ] [[Ian]]: Make a checkers piece
 	
 	**Started:**  [[2026-03-13]]
-- [ ] [[Ian]]: rewrite of the north korea dialogue
 
 
 ## Done
 
+- [ ] [[Ian]]: rewrite of the north korea dialogue
 - [ ] [[Justin]]: Add Premove
 
 
