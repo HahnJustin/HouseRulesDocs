@@ -8,6 +8,14 @@ tags:
 
 ## Not Started
 
+- [ ] [[Justin]]: Post Medium Blog
+- [ ] [[Jacob]]: Research Small Chess Streamers
+- [ ] [[Jacob]]: Reddit post about Rulehouse
+- [ ] [[Anyone]]: Social Media / Outreach
+- [ ] [[Justin]]: Create Youtube Script
+- [ ] [[Justin]]: Hookup Jam Itch Page to Rulehouse Page
+- [ ] [[Justin]]: Add Discord Link to Steam Page
+- [ ] [[Anyone]]: Reach out to small chess youtubers with v0.2
 
 
 ## In-progress
@@ -30,6 +38,11 @@ tags:
 	[[Fri 2026-03-13#Tasks]]
 	
 	**Started:** [[Fri 2026-03-13]]
+
+
+## Done
+
+- [ ] [[Justin]]: Creating Steam Page
 - [ ] [[Justin]]: Early Market Research
 	
 	Play 4 games
@@ -37,11 +50,6 @@ tags:
 	
 	**Started:** [[Fri 2026-03-13]]
 - [ ] [[Justin]]: Writing Blog
-
-
-## Done
-
-- [ ] [[Justin]]: Creating Steam Page
 
 
 
