@@ -82,7 +82,7 @@ The game within the game, 'pawn chess', as we started calling it, really focuses
 
 So with the UI done and the backend done, it was all just about wiring them together. Jacob and I did quite a bit of coordinating in tying the backend to the UI. Then I quickly wired all the new stages he had made to the map and with that we had a minimally viable game done on Wednesday just before our testing deadline. So after work on Thursday, yes we all had day jobs during this, we got together, built the game, put it up on a private itch page and waited for my friend and first tester, Jack.
 
-![[mediumPrototypeGif.gif]]
+![[Promotional Material/Medium/mediumPrototypeGif.gif|mediumPrototypeGif.gif]]
 
 ### Initial Testing
 
